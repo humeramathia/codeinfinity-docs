@@ -1,4 +1,4 @@
-#Dear Developer
+#Dear Developer,
 
 ## Welcome to Humeras guide to deploying your iOS application to TestFlight using RAD Studio
 

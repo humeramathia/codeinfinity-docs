@@ -10,8 +10,8 @@ theme:
 
     # Palette toggle for light mode
     - scheme: default
-      primary: green
-      accent: light blue
+      primary: black
+      accent: deep-orange
       background: white
       toggle:
         icon: material/toggle-switch
